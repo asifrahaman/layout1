@@ -1,0 +1,165 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+    line-height: 35px;
+    font-size: 22px;
+    letter-spacing: -1px;
+}
+img{
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+header{
+    padding: 30px 0;
+    margin-bottom: 45px;
+    margin-top: 38px;
+}
+.container{
+    width: 1250px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+nav ul li{
+    display: inline;
+    list-style: none;
+}
+nav ul a{
+    text-decoration: none;
+    color: #949191;
+    font-size: 18px;
+    margin-left: 40px;
+    padding: 40px;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+nav ul a:hover{}
+
+.banner-section{}
+.banner-section img{
+    width: 100%;
+    margin-bottom: 52px;
+}
+
+.article-section{}
+.container-box{
+    width: 1100px;
+    margin: 0 auto;
+}
+article{
+    padding: 30px 0;
+    margin-bottom: 58px;
+}
+article span{
+    color: #b1a7a7;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+article h1{
+    font-size: 2em;
+    margin-top: 15px;
+    letter-spacing: -2px;
+    color: gray;
+}
+article p{
+    line-height: 35px;
+    font-size: 25px;
+    letter-spacing: -1px;
+    color: darkgray;
+}
+article a{
+    text-decoration: none;
+}
+ article a span{}
+
+.gallery-box{
+    overflow: hidden;
+}
+.gallery{
+    width:50%;
+    float:left;
+    padding: 22px;
+    box-sizing: border-box;
+}
+.gallery span{}
+.gallery h1{}
+.gallery p{}
+.gallery img{
+    width: 100%;
+    margin-bottom: 30px;
+    margin-right: 50px;
+}
+
+
+footer{
+    background: #e2dddd;
+    padding:30px 0;
+    width: 1370px;
+    margin: auto;
+    letter-spacing: -1px;
+}
+.footer-manu{
+    width: 48%;
+    float: left;
+}
+.footer-manu ul{
+    margin: 0;
+    padding: 0;
+}
+.footer-manu ul li{
+    list-style: none;
+    float: left;
+}
+.footer-manu ul li a{
+    text-decoration: none;
+    color: #060606;
+    text-transform: capitalize;
+    margin: 23px;
+    margin-left: 89px;
+    font-size: 17px;
+}
+.footer-manu ul li a:hover{}
+
+.social-manu{
+    width: 50%;
+    display: inline-block;
+}
+.social-manu ul{
+    margin: 0;
+    padding:0;
+    text-align:right;
+}
+.social-manu ul li{
+    display: inline-block;
+    font-size: 10px;
+}
+.social-manu ul li span{
+    font-size: 16px;
+    letter-spacing: -1px;
+}
+.social-manu ul li a{
+    color: black;
+    margin-left: 20px;
+}
+.social-manu ul li a:hover{}
